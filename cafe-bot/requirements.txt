@@ -24,7 +24,8 @@ torch==2.1.2  # Large package (~1.5GB) - required by sentence-transformers
 transformers==4.57.3
 # numpy==2.4.0
 numpy==1.26.4   
-scipy==1.16.3
+# scipy==1.16.3
+scipy==1.11.4
 scikit-learn==1.8.0
 
 # HuggingFace and model loading
